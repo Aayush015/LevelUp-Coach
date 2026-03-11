@@ -32,7 +32,8 @@
     "plugins": [
       "expo-router",
       "react-native-auth0",
-      "react-native-health"
+      "react-native-health",
+      "expo-web-browser"
     ],
     "experiments": {
       "typedRoutes": true
